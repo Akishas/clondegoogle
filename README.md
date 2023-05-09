@@ -6,7 +6,7 @@
 * [2. Qué construi](#)https://github.com/Akishas/clondegoogle#2-que-construi
 * [3. Objetivo del proyecto](#)https://github.com/Akishas/clondegoogle#3objetivo-del-proyecto
 
-**
+****
 ## 1. Intro
 HTML5 trabaja de la mano con CSS3 para crear paginas web que usamos todos los días en el navegador. Incluso, este sitio web donde estas viendo este cntenido esta contruido con HTML y CSS.
 
