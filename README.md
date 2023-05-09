@@ -3,7 +3,7 @@
 ## ÍNDICE 📣
 
 * [1. Intro](#)https://github.com/Akishas/clondegoogle#1-intro
-* [2. Qué construi](#)https://github.com/Akishas/clondegoogle#2-que-construi
+* [2. Qué construi](#)https://github.com/Akishas/clondegoogle#2-que-constru
 * [3. Objetivo del proyecto](#)https://github.com/Akishas/clondegoogle#3objetivo-del-proyecto
 
 ****
